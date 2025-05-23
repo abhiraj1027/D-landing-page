@@ -21,6 +21,7 @@ A modern, responsive landing page built using HTML and CSS. This project showcas
 ## 📷 Screenshots
 
 --Mobile view:-
+
 <img width="541" alt="Screenshot 2025-05-23 at 9 08 58 PM" src="https://github.com/user-attachments/assets/3801cbbb-4528-45da-ade7-5828802722b2" />
 
 --Desktopview:-
