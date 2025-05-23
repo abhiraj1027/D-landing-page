@@ -1,4 +1,4 @@
-#🍾D Landing Page
+# 🍾 D Landing Page
 
 A modern, responsive landing page built using HTML and CSS. This project showcases a clean layout with horizontally scrollable text and images, custom scrollbar styling, and mobile responsiveness. Ideal as a UI/UX concept for an eyewear or fashion brand.
 
